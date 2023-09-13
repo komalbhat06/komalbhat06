@@ -5,11 +5,11 @@
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Angular, React**
-  
+
 - 💬 Ask me about **Python,HTML,CSS,SQL.**
-  
+
 - 📫 How to reach me **komalbhat0620@gmail.com**
-  
+
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
