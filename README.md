@@ -5,15 +5,11 @@
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Angular, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/komalbhat06?tab=repositories](https://github.com/komalbhat06?tab=repositories)
-
+- 
 - 💬 Ask me about **Python,HTML,CSS,SQL.**
 
 - 📫 How to reach me **komalbhat0620@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/17wVSwm4djijfKMe2QO7HYgdl3kyO3EdL/edit?usp=sharing&ouid=102841904485973334216&rtpof=true&sd=true](https://docs.google.com/document/d/17wVSwm4djijfKMe2QO7HYgdl3kyO3EdL/edit?usp=sharing&ouid=102841904485973334216&rtpof=true&sd=true)
-
+- 
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
