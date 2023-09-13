@@ -3,13 +3,9 @@
 <h3 align="center">Geeky coder with a passion for learning and creating.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 - 🔭 I’m currently working on **Portfolio Website**
-
 - 🌱 I’m currently learning **Angular, React**
-- 
 - 💬 Ask me about **Python,HTML,CSS,SQL.**
-
 - 📫 How to reach me **komalbhat0620@gmail.com**
-- 
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
